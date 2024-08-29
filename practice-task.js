@@ -23,4 +23,10 @@ const averageMark = parseFloat((totalMark / 5).toFixed(2));
 console.log(averageMark);
 
 // *********************** Task  3 **************************//
+
+const inputNum = 119;
+
+const reminder = inputNum % 5;
+console.log(reminder)
+
 // *********************** Task  4 **************************//
